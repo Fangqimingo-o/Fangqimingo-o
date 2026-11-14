@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 My GitHub Contributions
+
+![GitHub Contributions](https://ghchart.rshah.org/39c5bb/Fangqimingo-o)
