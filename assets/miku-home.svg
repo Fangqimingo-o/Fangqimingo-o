@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">葱葱的小小未来 · Fangqimingo-o</title>
+<desc id="desc">Mint and cream banner with a chibi turquoise twin-tail singer, little leeks, stars and musical notes.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#effffb"/><stop offset="1" stop-color="#fff8fb"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#39c5bb" stroke-opacity=".08"/></pattern>
+</defs>
+<rect x="2" y="2" width="1196" height="396" rx="32" fill="url(#bg)" stroke="#bcebe5" stroke-width="3"/>
+<rect x="3" y="3" width="1194" height="394" rx="31" fill="url(#grid)"/>
+<circle cx="985" cy="195" r="153" fill="#dff8f1"/>
+<circle cx="1016" cy="168" r="126" fill="#fffdf8"/>
+<g fill="#39c5bb" opacity=".65">
+<path d="m62 55 5 15 15 5-15 5-5 15-5-15-15-5 15-5Z"/>
+<path d="m779 271 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/>
+<path d="m1118 70 5 15 15 5-15 5-5 15-5-15-15-5 15-5Z"/>
+</g>
+<g fill="#ed9db7"><circle cx="743" cy="77" r="5"/><circle cx="89" cy="310" r="5"/><path d="M1135 271c-15-18-31 5 0 24 31-19 15-42 0-24Z"/></g>
+<g font-family="'Trebuchet MS','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
+<rect x="82" y="61" width="252" height="32" rx="16" fill="#d7f5ef"/>
+<text x="103" y="83" font-size="13" letter-spacing="2" fill="#287a73">MIKU GREEN · LITTLE HOME</text>
+<text x="79" y="170" font-size="46" font-weight="700" fill="#285c58">葱葱的小小未来</text>
+<text x="83" y="215" font-size="23" fill="#3a9e95" letter-spacing="2">Fangqimingo-o</text>
+<text x="83" y="266" font-size="18" fill="#5c7973">把每一次小小的进步，种成一片葱绿。</text>
+<text x="83" y="321" font-size="13" letter-spacing="3" fill="#779a91">01 / MUSIC / CODE / LITTLE DREAMS</text>
+</g>
+<!-- Original simple vector fan art -->
+<g stroke="#328d87" stroke-width="3.5" stroke-linejoin="round">
+<path d="M917 116C859 80 843 156 852 215L829 304Q872 329 896 290L925 153Z" fill="#65d8cc"/>
+<path d="M1049 116C1107 80 1122 156 1114 215L1137 304Q1094 329 1070 290L1041 153Z" fill="#65d8cc"/>
+<path d="M868 143Q853 223 850 290M1098 143Q1113 223 1116 290" fill="none" stroke="#a2eee1" stroke-width="5"/>
+<path d="M952 241 930 283 951 302 1014 302 1037 283 1015 241Z" fill="#f1f2f2"/>
+<path d="m973 241-5 41 15 12 15-12-5-41" fill="#39c5bb"/>
+<path d="m946 286-18 34q55 23 110 0l-19-34Z" fill="#475b63"/>
+<path d="M958 330v23M1008 330v23" stroke="#475b63" stroke-width="15"/>
+<path d="m941 258-29 24M1024 258l28 22" stroke="#475b63" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="983" cy="177" rx="67" ry="65" fill="#fff0e5"/>
+<path d="M916 171q-7-77 67-79 78 0 67 80l-22-30-10 19-27-39-12 30-21-23-24 42-5-28Z" fill="#58d2c7"/>
+<rect x="908" y="126" width="15" height="38" rx="4" fill="#475b63"/>
+<rect x="1043" y="126" width="15" height="38" rx="4" fill="#475b63"/>
+<path d="M912 130v25M1054 130v25" stroke="#f49ab6" stroke-width="4"/>
+<path d="M948 180q10-12 20 0M1000 180q10-12 20 0" fill="none" stroke-width="4" stroke-linecap="round"/>
+<path d="M973 201q10 12 20 0" fill="none" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="946" cy="196" rx="12" ry="6" fill="#f7b8c5" stroke="none"/>
+<ellipse cx="1021" cy="196" rx="12" ry="6" fill="#f7b8c5" stroke="none"/>
+</g>
+<g transform="translate(1052 247) rotate(24)" stroke="#438f70" stroke-width="2">
+<path d="M0 0 5-56 15-21 26-61 22 3Z" fill="#8dd7a2"/>
+<path d="M1 0h20l-4 54q-6 7-12 0Z" fill="#fffef1"/>
+<path d="m11-4 4-34" fill="none"/>
+</g>
+<g fill="#3caaa0" font-family="sans-serif" font-size="29"><text x="851" y="80">♪</text><text x="1117" y="199">♫</text></g>
+<text x="1104" y="366" fill="#8ab7aa" font-size="13" font-family="sans-serif">39 ♡</text>
+</svg>
