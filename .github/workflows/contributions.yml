@@ -29,6 +29,8 @@ jobs:
           username: Fangqimingo-o
           output: assets/contributions.svg
           color: "#39C5BB"
+          background: "#F3FFFD"
+          text: "#31615D"
 
       - name: Commit if changed
         run: |
