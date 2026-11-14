@@ -1,0 +1,40 @@
+name: Contribution graph
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contributions.yml
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Draw contribution calendar
+        uses: sidebandstudio/GitHub-Reskin@b60f05cfd3b1a821e510621ef7305872798e5c0d # v1
+        with:
+          username: Fangqimingo-o
+          output: assets/contributions.svg
+          color: "#39C5BB"
+
+      - name: Commit if changed
+        run: |
+          git add assets/contributions.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh contribution graph [skip ci]"
+          git pull --rebase
+          git push
