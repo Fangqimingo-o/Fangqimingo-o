@@ -1,5 +1,4 @@
 name: Contribution graph
-# Refresh calendar after enabling private contributions on the profile.
 
 on:
   push:
