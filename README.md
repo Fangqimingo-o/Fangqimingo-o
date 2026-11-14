@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 My GitHub Contributions
+## ☃️
 
 <img src="assets/contributions.svg" alt="My GitHub contributions over the last year" width="100%">
