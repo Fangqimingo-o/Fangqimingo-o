@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 🌱 My GitHub Contributions
 
-![GitHub Contributions](https://ghchart.rshah.org/39c5bb/Fangqimingo-o)
+<img src="assets/contributions.svg" alt="My GitHub contributions over the last year" width="100%">
